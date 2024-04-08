@@ -16,7 +16,7 @@ function TopicCard({ src, description, title }: props) {
 
   const fetch = async () => {
     try {
-      const res = await innerAxios.post("http://localhost:3001/api/fetch", { url: src });
+      const res = await innerAxios.post("http://localhost:3000/api/fetch", { url: src });
       console.log(res.data);
       setThumb(res.data.url);
     } catch (err) {
