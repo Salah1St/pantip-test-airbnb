@@ -1,0 +1,36 @@
+{
+  "screens": {
+    "SelectLanguageScreen": {
+      "title": "Select Language",
+      "buttons": {
+        "english": "English",
+        "thai": "ไทย"
+      },
+      "footer": {
+        "button": " Let’s go"
+      }
+    },
+    "LoginScreen": {
+      "title": "sign-in",
+      "form": {
+        "username": {
+          "title": "username",
+          "placeHolder": "Enter your username"
+        },
+        "password": {
+          "title": "password",
+          "placeHolder": "Enter your password"
+        }
+      }
+    }
+  },
+  "enum": {
+    "month": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+    "year": "0",
+    "select": "valueEn"
+  },
+  "error": {
+    "NOT_FOUND": "bank account not match with employee",
+    "EXISTING": "this slipt was crated"
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "room": [
+    {
+      "room_id": "all",
+      "room_name": "รวมมิตร",
+      "room_discription": "รวมกระทู้จากทุกห้อง",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-all.svg"
+    },
+    {
+      "room_id": "supachalasai",
+      "room_name": "ศุภชลาศัย",
+      "room_discription": "กีฬา ฟุตบอล บาสเกตบอล มวยสากล กอล์ฟ จักรยาน นักกีฬา",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-supachalasai.svg"
+    },
+    {
+      "room_id": "sinthorn",
+      "room_name": "สินธร",
+      "room_discription": "หุ้น เศรษฐกิจ การลงทุน LTF RMF ธนาคาร เงินตราต่างประเทศ",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-sinthorn.svg"
+    },
+    {
+      "room_id": "wahkor",
+      "room_name": "หว้ากอ",
+      "room_discription": "วิทยาศาสตร์ วิศวกรรม เทคโนโลยี ฟิสิกส์ ดาราศาสตร์ อวกาศ",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-wahkor.svg"
+    },
+    {
+      "room_id": "religious",
+      "room_name": "ศาสนา",
+      "room_discription": "ศาสนาพุทธ ศาสนาคริสต์ ศาสนาอิสลาม เที่ยววัด ทำบุญ",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-religious.svg"
+    },
+    {
+      "room_id": "chalermthai",
+      "room_name": "เฉลิมไทย",
+      "room_discription": "ภาพยนตร์ ดาราภาพยนตร์ ค่ายหนัง เทศกาลหนัง หนังสั้น",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-chalermthai.svg"
+    },
+    {
+      "room_id": "klaibann",
+      "room_name": "ไกลบ้าน",
+      "room_discription": "เรียนต่อต่างประเทศ ทำงานต่างประเทศ วีซ่า",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-klaibann.svg"
+    },
+    {
+      "room_id": "lumpini",
+      "room_name": "สวนลุมพินี",
+      "room_discription": "สุขภาพกาย สุขภาพจิต โรคมะเร็ง โรคไมเกรน โรคภูมิแพ้ ปวดประจำเดือน",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-lumpini.svg"
+    },
+    {
+      "room_id": "family",
+      "room_name": "ชานเรือน",
+      "room_discription": "ครอบครัว ตั้งครรภ์ ตั้งชื่อลูก การเลี้ยงลูก การสอนลูก",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-family.svg"
+    },
+    {
+      "room_id": "horoscope",
+      "room_name": "พรหมชาติ",
+      "room_discription": "ดูดวง ฮวงจุ้ย ไพ่ยิปซี ทำนายฝัน พระเครื่อง",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-horoscope.svg"
+    },
+    {
+      "room_id": "theoldsiam",
+      "room_name": "ดิโอลด์สยาม",
+      "room_discription": "ผู้สูงอายุ สุขภาพผู้สูงอายุ ชีวิตหลังเกษียณ สิทธิผู้สูงอายุ ท่องเที่ยวผู้สูงอายุ",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-theoldsiam.svg"
+    },
+    {
+      "room_id": "siam",
+      "room_name": "สยามสแควร์",
+      "room_discription": "ชีวิตวัยรุ่น การเรียน โรงเรียน มหาวิทยาลัย ความรักวัยรุ่น เกม",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-siam.svg"
+    },
+    {
+      "room_id": "beauty",
+      "room_name": "โต๊ะเครื่องแป้ง",
+      "room_discription": "เครื่องสำอาง เสริมสวย แฟชั่น เครื่องประดับ ลดความอ้วน",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-beauty.svg"
+    },
+    {
+      "room_id": "chalermkrung",
+      "room_name": "เฉลิมกรุง",
+      "room_discription": "นักร้องนักดนตรี เพลง เครื่องดนตรี คอนเสิร์ต มิวสิควิดีโอ",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-chalermkrung.svg"
+    },
+    {
+      "room_id": "jatujak",
+      "room_name": "จตุจักร",
+      "room_discription": "สัตว์เลี้ยง สุนัข แมว ต้นไม้ จัดสวน ของสะสม งานฝีมือ เกษตรกรรม",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-jatujak.svg"
+    },
+    {
+      "room_id": "isolate",
+      "room_name": "ไร้สังกัด",
+      "room_discription": "กระทู้อื่นๆ ที่ไม่สังกัดห้องไหนเลย",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-isolate.svg"
+    },
+    {
+      "room_id": "gallery",
+      "room_name": "แกลเลอรี่",
+      "room_discription": "ภาพถ่ายบุคคล ภาพถ่ายทิวทัศน์ ภาพถ่ายมาโคร",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-gallery.svg"
+    },
+    {
+      "room_id": "tvshow",
+      "room_name": "บางขุนพรหม",
+      "room_discription": "ละคร นักแสดง ซีรี่ส์ รายการโทรทัศน์ สถานีโทรทัศน์",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-tvshow.svg"
+    },
+    {
+      "room_id": "mbk",
+      "room_name": "มาบุญครอง",
+      "room_discription": "โทรศัพท์มือถือ Smartphone Tablet iOS Android",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-mbk.svg"
+    },
+    {
+      "room_id": "camera",
+      "room_name": "กล้อง",
+      "room_discription": "กล้องถ่ายรูป กล้อง DSLR กล้องวิดีโอ เทคนิคการถ่ายรูป",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-camera.svg"
+    },
+    {
+      "room_id": "food",
+      "room_name": "ก้นครัว",
+      "room_discription": "ร้านอาหาร สูตรอาหาร อาหารคาว อาหารหวาน เบเกอรี่ ไอศกรีม",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-food.svg"
+    },
+    {
+      "room_id": "home",
+      "room_name": "ชายคา",
+      "room_discription": "บ้าน คอนโดมิเนียม ตกแต่งบ้าน เฟอร์นิเจอร์ เครื่องใช้ไฟฟ้า เครื่องครัว",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-home.svg"
+    },
+    {
+      "room_id": "siliconvalley",
+      "room_name": "ซิลิคอนวัลเลย์",
+      "room_discription": "คอมมือใหม่ อินเทอร์เน็ต ซอฟต์แวร์ ฮาร์ดแวร์ เกม เขียนโปรแกรม Gadget",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-siliconvalley.svg"
+    },
+    {
+      "room_id": "writer",
+      "room_name": "ถนนนักเขียน",
+      "room_discription": "แต่งนิยาย เรื่องสั้น กลอน นิทาน",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-writer.svg"
+    },
+    {
+      "room_id": "blueplanet",
+      "room_name": "บลูแพลนเน็ต",
+      "room_discription": "เที่ยวไทย เที่ยวต่างประเทศ ทะเล ภูเขา เกาะ น้ำตก ดำน้ำ สายการบิน",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-blueplanet.svg"
+    },
+    {
+      "room_id": "pantip",
+      "room_name": "พันทิป",
+      "room_discription": "ข้อเสนอแนะถึงพันทิป วิธีการใช้งานพันทิป กิจกรรมพันทิป",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-pantip.svg"
+    },
+    {
+      "room_id": "region",
+      "room_name": "ภูมิภาค",
+      "room_discription": "ภาคเหนือ ภาคอีสาน ภาคกลาง ภาคตะวันออก ภาคตะวันตก ภาคใต้",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-region.svg"
+    },
+    {
+      "room_id": "ratchada",
+      "room_name": "รัชดา",
+      "room_discription": "รถยนต์ มอเตอร์ไซค์ เครื่องเสียงรถยนต์ แต่งรถ การจราจร",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-ratchada.svg"
+    },
+    {
+      "room_id": "rajdumnern",
+      "room_name": "ราชดำเนิน",
+      "room_discription": "การเมือง รัฐศาสตร์ กฎหมาย สภาผู้แทน รัฐบาล ฝ่ายค้าน พรรคการเมือง",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-rajdumnern.svg"
+    },
+    {
+      "room_id": "social",
+      "room_name": "ศาลาประชาคม",
+      "room_discription": "กฎหมาย ปัญหาสังคม ปัญหาชีวิต เศรษฐกิจ คุ้มครองผู้บริโภค",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-social.svg"
+    },
+    {
+      "room_id": "silom",
+      "room_name": "สีลม",
+      "room_discription": "การบริหารจัดการ การตลาด ทรัพยากรบุคคล งานขาย SME ภาษีนิติบุคคล",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-silom.svg"
+    },
+    {
+      "room_id": "library",
+      "room_name": "ห้องสมุด",
+      "room_discription": "หนังสือ หนังสือนิยาย ภาษาไทย ภาษาจีน ภาษาอังกฤษ ปรัชญา ประวัติศาสตร์",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-library.svg"
+    },
+    {
+      "room_id": "greenzone",
+      "room_name": "กรีนโซน",
+      "room_discription": "อนุรักษ์สิ่งแวดล้อม อนุรักษ์พลังงาน Green Living การออกแบบเพื่อสิ่งแวดล้อม ผลิตภัณฑ์รักษ์โลก เกษตรอินทรีย์",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-greenzone.svg"
+    },
+    {
+      "room_id": "art",
+      "room_name": "หอศิลป์",
+      "room_discription": "ศิลปะ ภาพวาด ประวัติศาสตร์ศิลป์ สื่อประสม Graphic Design",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-art.svg"
+    },
+    {
+      "room_id": "cartoon",
+      "room_name": "การ์ตูน",
+      "room_discription": "การ์ตูนญี่ปุ่น การ์ตูนไทย การ์ตูนฝรั่ง อนิเมะ วาดการ์ตูน ของสะสมจากการ์ตูน คอสเพลย์",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-cartoon.svg"
+    },
+    {
+      "room_id": "bangrak",
+      "room_name": "บางรัก",
+      "room_discription": "ความรัก แต่งงาน พรีเวดดิ้ง ปัญหาชีวิตคู่",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-bangrak.svg"
+    },
+    {
+      "room_id": "korea",
+      "room_name": "กรุงโซล",
+      "room_discription": "K-POP ซีรีส์เกาหลี นักแสดงเกาหลี อาหารเกาหลี เที่ยวเกาหลี แฟชั่นเกาหลี ภาษาเกาหลี",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-korea.svg"
+    },
+    {
+      "room_id": "gadget",
+      "room_name": "แก็ดเจ็ต",
+      "room_discription": "Gadget, Action Camera, Drone, Game Console, Smartwatch, Smartband",
+      "pic_url": "https://ptcdn.info/mobile/icon_room/pt-forum-gadget.svg"
+    }
+  ],
+  "room_discription": [
+    "รวมกระทู้จากทุกห้อง",
+    "กีฬา ฟุตบอล บาสเกตบอล มวยสากล กอล์ฟ จักรยาน นักกีฬา",
+    "หุ้น เศรษฐกิจ การลงทุน LTF RMF ธนาคาร เงินตราต่างประเทศ",
+    "วิทยาศาสตร์ วิศวกรรม เทคโนโลยี ฟิสิกส์ ดาราศาสตร์ อวกาศ",
+    "ศาสนาพุทธ ศาสนาคริสต์ ศาสนาอิสลาม เที่ยววัด ทำบุญ",
+    "ภาพยนตร์ ดาราภาพยนตร์ ค่ายหนัง เทศกาลหนัง หนังสั้น",
+    "เรียนต่อต่างประเทศ ทำงานต่างประเทศ วีซ่า",
+    "สุขภาพกาย สุขภาพจิต โรคมะเร็ง โรคไมเกรน โรคภูมิแพ้ ปวดประจำเดือน",
+    "ครอบครัว ตั้งครรภ์ ตั้งชื่อลูก การเลี้ยงลูก การสอนลูก",
+    "ดูดวง ฮวงจุ้ย ไพ่ยิปซี ทำนายฝัน พระเครื่อง",
+    "ผู้สูงอายุ สุขภาพผู้สูงอายุ ชีวิตหลังเกษียณ สิทธิผู้สูงอายุ ท่องเที่ยวผู้สูงอายุ",
+    "ชีวิตวัยรุ่น การเรียน โรงเรียน มหาวิทยาลัย ความรักวัยรุ่น เกม",
+    "เครื่องสำอาง เสริมสวย แฟชั่น เครื่องประดับ ลดความอ้วน",
+    "นักร้องนักดนตรี เพลง เครื่องดนตรี คอนเสิร์ต มิวสิควิดีโอ",
+    "สัตว์เลี้ยง สุนัข แมว ต้นไม้ จัดสวน ของสะสม งานฝีมือ เกษตรกรรม",
+    "กระทู้อื่นๆ ที่ไม่สังกัดห้องไหนเลย",
+    "ภาพถ่ายบุคคล ภาพถ่ายทิวทัศน์ ภาพถ่ายมาโคร",
+    "ละคร นักแสดง ซีรี่ส์ รายการโทรทัศน์ สถานีโทรทัศน์",
+    "โทรศัพท์มือถือ Smartphone Tablet iOS Android",
+    "กล้องถ่ายรูป กล้อง DSLR กล้องวิดีโอ เทคนิคการถ่ายรูป",
+    "ร้านอาหาร สูตรอาหาร อาหารคาว อาหารหวาน เบเกอรี่ ไอศกรีม",
+    "บ้าน คอนโดมิเนียม ตกแต่งบ้าน เฟอร์นิเจอร์ เครื่องใช้ไฟฟ้า เครื่องครัว",
+    "คอมมือใหม่ อินเทอร์เน็ต ซอฟต์แวร์ ฮาร์ดแวร์ เกม เขียนโปรแกรม Gadget",
+    "แต่งนิยาย เรื่องสั้น กลอน นิทาน",
+    "เที่ยวไทย เที่ยวต่างประเทศ ทะเล ภูเขา เกาะ น้ำตก ดำน้ำ สายการบิน",
+    "ข้อเสนอแนะถึงพันทิป วิธีการใช้งานพันทิป กิจกรรมพันทิป",
+    "ภาคเหนือ ภาคอีสาน ภาคกลาง ภาคตะวันออก ภาคตะวันตก ภาคใต้",
+    "รถยนต์ มอเตอร์ไซค์ เครื่องเสียงรถยนต์ แต่งรถ การจราจร",
+    "การเมือง รัฐศาสตร์ กฎหมาย สภาผู้แทน รัฐบาล ฝ่ายค้าน พรรคการเมือง",
+    "กฎหมาย ปัญหาสังคม ปัญหาชีวิต เศรษฐกิจ คุ้มครองผู้บริโภค",
+    "การบริหารจัดการ การตลาด ทรัพยากรบุคคล งานขาย SME ภาษีนิติบุคคล",
+    "หนังสือ หนังสือนิยาย ภาษาไทย ภาษาจีน ภาษาอังกฤษ ปรัชญา ประวัติศาสตร์",
+    "อนุรักษ์สิ่งแวดล้อม อนุรักษ์พลังงาน Green Living การออกแบบเพื่อสิ่งแวดล้อม ผลิตภัณฑ์รักษ์โลก เกษตรอินทรีย์",
+    "ศิลปะ ภาพวาด ประวัติศาสตร์ศิลป์ สื่อประสม Graphic Design",
+    "การ์ตูนญี่ปุ่น การ์ตูนไทย การ์ตูนฝรั่ง อนิเมะ วาดการ์ตูน ของสะสมจากการ์ตูน คอสเพลย์",
+    "ความรัก แต่งงาน พรีเวดดิ้ง ปัญหาชีวิตคู่",
+    "K-POP ซีรีส์เกาหลี นักแสดงเกาหลี อาหารเกาหลี เที่ยวเกาหลี แฟชั่นเกาหลี ภาษาเกาหลี",
+    "Gadget, Action Camera, Drone, Game Console, Smartwatch, Smartband"
+  ],
+  "room_name": [
+    "รวมมิตร",
+    "ศุภชลาศัย",
+    "สินธร",
+    "หว้ากอ",
+    "ศาสนา",
+    "เฉลิมไทย",
+    "ไกลบ้าน",
+    "สวนลุมพินี",
+    "ชานเรือน",
+    "พรหมชาติ",
+    "ดิโอลด์สยาม",
+    "สยามสแควร์",
+    "โต๊ะเครื่องแป้ง",
+    "เฉลิมกรุง",
+    "จตุจักร",
+    "ไร้สังกัด",
+    "แกลเลอรี่",
+    "บางขุนพรหม",
+    "มาบุญครอง",
+    "กล้อง",
+    "ก้นครัว",
+    "ชายคา",
+    "ซิลิคอนวัลเลย์",
+    "ถนนนักเขียน",
+    "บลูแพลนเน็ต",
+    "พันทิป",
+    "ภูมิภาค",
+    "รัชดา",
+    "ราชดำเนิน",
+    "ศาลาประชาคม",
+    "สีลม",
+    "ห้องสมุด",
+    "กรีนโซน",
+    "หอศิลป์",
+    "การ์ตูน",
+    "บางรัก",
+    "กรุงโซล",
+    "แก็ดเจ็ต"
+  ],
+  "url": [
+    "https://ptcdn.info/mobile/icon_room/pt-forum-all.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-supachalasai.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-sinthorn.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-wahkor.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-religious.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-chalermthai.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-klaibann.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-lumpini.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-family.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-horoscope.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-theoldsiam.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-siam.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-beauty.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-chalermkrung.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-jatujak.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-isolate.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-gallery.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-tvshow.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-mbk.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-camera.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-food.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-home.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-siliconvalley.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-writer.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-blueplanet.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-pantip.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-region.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-ratchada.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-rajdumnern.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-social.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-silom.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-library.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-greenzone.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-art.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-cartoon.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-bangrak.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-korea.svg",
+    "https://ptcdn.info/mobile/icon_room/pt-forum-gadget.svg"
+  ]
+}

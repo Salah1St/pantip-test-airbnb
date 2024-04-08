@@ -1,0 +1,43 @@
+{
+  "screens": {
+    "test": "test",
+    "SelectLanguageScreen": {
+      "title": "Select Language",
+      "buttons": {
+        "english": "English",
+        "thai": "ไทย"
+      },
+      "footer": {
+        "button": "ลุยกันเลย"
+      }
+    },
+    "LoginScreen": {
+      "title": "เข้าสู่ระบบ",
+      "loginHeader1": "Napatsorn",
+      "loginHeader2": "Smart Slip",
+      "form": {
+        "username": {
+          "title": "บัญชีผู้ใช้",
+          "placeHolder": "ใส่ชื่อบัญชีผู้ใช้ของคุณ"
+        },
+        "password": {
+          "title": "รหัสผ่าน",
+          "placeHolder": "ใส่รหัสผ่านของคุณ"
+        },
+        "button": {
+          "login": "เข้าสู่ระบบ"
+        },
+        "forgotPassword": "ลืมชื่อผู้ใช้/รหัสผ่าน?"
+      }
+    }
+  },
+  "enum": {
+    "month": ["มกราคม", "กุมภาพันธ์", "มีนาคม", "เมษายน", "พฤษภาคม", "มิถุนายน", "กรกฎาคม", "สิงหาคม", "กันยายน", "ตุลาคม", "พฤศจิกายน", "ธันวาคม"],
+    "year": "543",
+    "select": "valueTh"
+  },
+  "error": {
+    "NOT_FOUND": "ไม่พบเลขบัญชีธนาคารที่ตรงกับพนักงาน",
+    "EXISTING": "มีรายการนี้ในระบบแล้ว"
+  }
+}
